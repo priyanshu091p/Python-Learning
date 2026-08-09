@@ -1,5 +1,5 @@
 # Check whether a number is a palindrome.
-'''a=int(input("Enter a number: "))
+a=int(input("Enter a number: "))
 i=0
 original=a
 reverse=0
@@ -63,7 +63,7 @@ while(num<=n):
     if(prime):
         print(num)
 
-    num = num + 1'''
+    num = num + 1
 
 # Create a menu that keeps running until the user chooses Exit.
 while True:
