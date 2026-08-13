@@ -13,13 +13,13 @@ print("Hello!",name)
 
 #sum of two numbers and also inputs by user
 
-'''a=10
+a=10
 b=40
 print(a+b)
 c=int(input("Enter a number:"))
 d=int(input("Enter a number:"))
 sum=c+d
-print("the sum of given inputs is:",sum)'''
+print("the sum of given inputs is:",sum)
 
 # print datatype
 print(type(10))
