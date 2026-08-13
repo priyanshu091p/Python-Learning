@@ -1,15 +1,15 @@
-'''print("Hello! World")
+print("Hello! World")
 name="Priyanshsu"
 age=21
 city="Ghaziabad"
 print("My Name is:",name)
 print("My Age is:",age)
-print("My City is:",city)'''
+print("My City is:",city)
 
 #input from user
 
-'''name=input("enter your name:")  
-print("Hello!",name)'''
+name=input("enter your name:")  
+print("Hello!",name)
 
 #sum of two numbers and also inputs by user
 
