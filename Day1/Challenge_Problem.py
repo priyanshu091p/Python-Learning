@@ -1,7 +1,7 @@
 #Cal. Area of Circle
 r=int(input("Enter radius of circle: "))
 area_circle=3.14*r*r
-print("the area of circle is:",area_circle)'''
+print("the area of circle is:",area_circle)
 
 #conver kilometers to miles
 kilometers=float(input("Enter distance in kilometers:"))
