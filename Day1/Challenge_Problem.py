@@ -23,8 +23,6 @@ print("Kilogram=",kilogram)
 print("Gram=",remaining_gram)
 
 #days into Months, weeks and days
-
-#cal. marks percentage and total
 # days=int(input("enter total days: "))
 months=days//30
 remaining_days=days%30
@@ -36,7 +34,7 @@ print("Weeks=",week)
 print("Days=",days_left)
 
 #cal. marks percentage and total
-'''English_marks=int(input("Enter Given Marks in English: "))
+English_marks=int(input("Enter Given Marks in English: "))
 Hindi_marks=int(input("Enter Given Marks in Hindi: "))
 Mathematics_marks=int(input("Enter Given Marks Mathematics: "))
 Science_marks=int(input("Enter Given Marks Science: "))
@@ -46,7 +44,7 @@ total=English_marks+Mathematics_marks+Hindi_marks+Science_marks+Computer_marks
 percentage=(total/600)*100
 
 print("Grand total obtained a student=",total)
-print("Marks in percentage=",percentage)'''
+print("Marks in percentage=",percentage)
 
  #Buila simple calculator without using if statements
 num1=int(input("Enter a number: "))
