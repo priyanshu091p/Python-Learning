@@ -1,29 +1,28 @@
 #Cal. Area of Circle
-'''r=int(input("Enter radius of circle: "))
+r=int(input("Enter radius of circle: "))
 area_circle=3.14*r*r
 print("the area of circle is:",area_circle)'''
 
 #conver kilometers to miles
-'''kilometers=float(input("Enter distance in kilometers:"))
+kilometers=float(input("Enter distance in kilometers:"))
 miles=kilometers*0.621371
-print("Distance in miles is =",miles)'''
+print("Distance in miles is =",miles)
 
 #Convert minutes into hours and minutes
-'''minutes=int(input("Enter minutes: "))
+minutes=int(input("Enter minutes: "))
 hours=minutes//60
 reaining_minutes=minutes%60
 print("Hours =",hours)                              
-print("Minutes =",reaining_minutes)'''
+print("Minutes =",reaining_minutes)
 
 #Gram into Kilogram
-'''gram=int(input("Enter total gram: "))
+gram=int(input("Enter total gram: "))
 kilogram=gram//1000
 remaining_gram=gram%1000
 print("Kilogram=",kilogram)
-print("Gram=",remaining_gram)'''
+print("Gram=",remaining_gram)
 
 #days into Months, weeks and days
-'''
 
 #cal. marks percentage and total
 # days=int(input("enter total days: "))
@@ -34,7 +33,7 @@ week=remaining_days//7
 days_left=remaining_days%7
 print("Months=",months)
 print("Weeks=",week)
-print("Days=",days_left)'''
+print("Days=",days_left)
 
 #cal. marks percentage and total
 '''English_marks=int(input("Enter Given Marks in English: "))
