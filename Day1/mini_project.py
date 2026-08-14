@@ -1,4 +1,4 @@
-'''name=str(input("Enter Your Name: "))
+name=str(input("Enter Your Name: "))
 age=int(input("Enter your Age:: "))
 course=str(input("Enter Your Course Name: "))
 college=str(input("Enter Your Colege Name: "))
@@ -7,7 +7,7 @@ print("Name     :",name)
 print("Age      :",age)
 print("Course   :",course)
 print("College  :",college)
-print("-------------------------------")'''
+print("-------------------------------")
 
 
 # profesional code

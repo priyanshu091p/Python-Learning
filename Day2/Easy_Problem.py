@@ -1,4 +1,4 @@
-#Addition or two numbers
+#perform methods on  two numbers
 a=int(input("Eenter first number: "))
 b=int(input("Eenter second number: "))
 
